@@ -1,0 +1,8 @@
+C:\Users\OI\Documents\SVN\基礎專案\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\OI\Documents\SVN\基礎專案\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\OI\Documents\SVN\基礎專案\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\OI\Documents\SVN\基礎專案\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\OI\Documents\SVN\基礎專案\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\OI\Documents\SVN\基礎專案\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\OI\Documents\SVN\基礎專案\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\OI\Documents\SVN\基礎專案\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
